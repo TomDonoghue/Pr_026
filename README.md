@@ -1,10 +1,5 @@
+Analyzed and compared UCSD Students’ GPA data across different majors and timeline.
 
-This is your group repo for your final project for COGS108.
+Made use of the numerous Python tools such as Pandas, BeautifulSoup to explore the impact of each relevant dimension of our dataset
 
-This repostory is private, including to other students in the class, but visible to COGS108 instructors. 
-
-This repository will be frozen on the due date - at 11:59pm on Tuesday, June 13th.
-
-Your final project will be graded based solely on a project notebook.
-
-Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date. 
+Won Third Place in Data Science Hackathon judged by U.S. Former Chief Data Scientist DJ Patil.
